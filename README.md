@@ -18,4 +18,4 @@ Like my works and want to support me
   
 
 ## Screenshot 
-1[screenshot](img/chef1.png)
+![screenshot](img/chef1.png)
